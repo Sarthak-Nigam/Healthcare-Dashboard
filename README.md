@@ -29,21 +29,21 @@ The aim is to provide actionable insights that can help improve healthcare opera
 To view the Tableau dashboard:
 
 1. Clone the repository:  <br>
-<nbsp><nbsp><nbsp> git clone https://github.com/yourusername/healthcare-dashboard.git  <br>
+ git clone https://github.com/Sarthak-Nigam/healthcare-dashboard.git  <br>
 2. Open the provided .twbx file in Tableau (Tableau Desktop required).  <br>
 3. Explore the interactive dashboard to analyze healthcare metrics.  <br>
 4. For more details on how to install Tableau, visit Tableau Installation Guide.
 <h2></h2>
 
-### 📸 Screenshots
-Patient Demographics View  <br>
+```### 📸 Screenshots```
+```Patient Demographics View  <br>```
 
-Treatment Outcomes View  <br>
+```Treatment Outcomes View  <br>```
 
-Resource Utilization View  <br>
+```Resource Utilization View  <br>```
 
-Feel free to add more screenshots as you deem necessary.
-<h2></h2>
+```Feel free to add more screenshots as you deem necessary.```
+```<h2></h2>```
 
 ### 🎯 Use Cases
 This dashboard can be utilized by:  <br>
